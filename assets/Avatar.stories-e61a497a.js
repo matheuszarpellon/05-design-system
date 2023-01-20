@@ -1,0 +1,2 @@
+import{A as t}from"./index-d76eacc7.js";import"./index-43ec82a8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-648f2948.js";import"./jsx-runtime-1becbe17.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/matheuszarpellon.png",alt:"Matheus Zarpellon"},argTypes:{src:{control:{type:"text"}}}},i={},l={args:{src:void 0}},c=["Primary","WithFallback"];export{i as Primary,l as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-e61a497a.js.map
