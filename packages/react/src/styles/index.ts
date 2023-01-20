@@ -24,13 +24,14 @@ export const {
     height: 'space',
     width: 'space',
   },
+
   theme: {
     colors,
     fontSizes,
     fontWeights,
     fonts,
     lineHeights,
-    space,
     radii,
+    space,
   },
 })
